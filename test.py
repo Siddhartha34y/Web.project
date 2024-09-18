@@ -1,0 +1,1 @@
+print('riddhi & tek knight')
